@@ -16,6 +16,23 @@
           "name": "Sigourney Weaver"
         }
       ]
+    },
+    {
+      "id": "2",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "description": "Murder mystery.",
+      "director": "Rian Johnson",
+      "actors": [
+        {
+          "name": "Daniel Craig"
+        },
+        {
+          "name": "Kate Hudson"
+        },
+        {
+          "name": "Janelle Monae"
+        }
+      ]
     }
   ]
 }
