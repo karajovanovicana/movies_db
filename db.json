@@ -3,7 +3,7 @@
     "id": "1",
     "title": "Avatar 2",
     "description": "A movie about aliens.",
-    "director":"James Cameron",
+    "director": "James Cameron",
     "actors": [
       {
         "name": "Sam Worthington"
@@ -15,6 +15,6 @@
         "name": "Sigourney Weaver"
       }
     ]
-    ]
   }
-]
+    ]
+ 
