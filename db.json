@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Avatar 2",
       "description": "A movie about aliens.",
       "director": "James Cameron",
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Glass Onion: A Knives Out Mystery",
       "description": "Murder mystery.",
       "director": "Rian Johnson",
