@@ -6,15 +6,14 @@
       "description": "A movie about aliens.",
       "director": "James Cameron",
       "actors": [
-        {
-          "name": "Sam Worthington"
-        },
-        {
-          "name": "Zoe Saldana"
-        },
-        {
-          "name": "Sigourney Weaver"
-        }
+        
+          "Sam Worthington"
+        ,
+         "Zoe Saldana"
+        ,
+        
+       "Sigourney Weaver"
+        
       ]
     },
     {
@@ -23,15 +22,13 @@
       "description": "Murder mystery.",
       "director": "Rian Johnson",
       "actors": [
-        {
-          "name": "Daniel Craig"
-        },
-        {
-          "name": "Kate Hudson"
-        },
-        {
-          "name": "Janelle Monae"
-        }
+        "Daniel Craig"
+        ,
+        
+           "Kate Hudson"
+        ,
+         "Janelle Monae"
+        
       ]
     }
   ]
